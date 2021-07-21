@@ -1,11 +1,11 @@
 {
     "projects": [
         {
-            "name": "React Project",
+            "name": "iTheater",
             "id": "7e2e7e49-cd84-4b34-9762-8985cc573983",
             "aboutProj": "About this project. Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, alias?",
             "description": "Reactjs Project Lorem ipsum dolor sit amet consectetur adipisicing elit. At numquam quo porro id quam doloribus?",
-            "projectImg1": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._i552zWzTG2LJbz1ef_MtwHaEK%26pid%3DApi&f=1",
+            "projectImg1": "https://just-mann.github.io/itheater.github.io/iTheaterImg.PNG",
             "projectUrl": "",
             "projectKind": "React Project"
         },
