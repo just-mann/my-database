@@ -8,7 +8,7 @@
             "projectImg1": "https://just-mann.github.io/itheater.github.io/iTheaterImg.PNG",
             "projectUrl": "https://itheater-80808.web.app/",
             "projectKind": "React Project",
-            "projectToolsUsed": ["React Context API", "Sass", "EmailJS"]
+            "projectToolsUsed": ["React", "Context-API", "Sass"]
         },
         { 
             "name": "Express Delivery", 

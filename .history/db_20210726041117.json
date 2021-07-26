@@ -3,12 +3,11 @@
         {
             "name": "iTheater",
             "id": "7e2e7e49-cd84-4b34-9762-8985cc573983",
-            "aboutProj": "A simple React application to show some basic information about a TV Show or Movie.",
+            "aboutProj": "A simple React application to show some basic information about a TV Show or Movie",
             "description": "Reactjs Project Lorem ipsum dolor sit amet consectetur adipisicing elit. At numquam quo porro id quam doloribus?",
             "projectImg1": "https://just-mann.github.io/itheater.github.io/iTheaterImg.PNG",
             "projectUrl": "https://itheater-80808.web.app/",
-            "projectKind": "React Project",
-            "projectToolsUsed": ["React Context API", "Sass", "EmailJS"]
+            "projectKind": "React Project"
         },
         { 
             "name": "Express Delivery", 
@@ -18,8 +17,7 @@
             "projectImg1": "https://just-mann.github.io/express-delivery/expressDeliv.PNG",
             "projectImg2": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._i552zWzTG2LJbz1ef_MtwHaEK%26pid%3DApi&f=1",
             "projectUrl": "https://expressdelivery.netlify.app/",
-            "projectKind": "Front End",
-            "projectToolsUsed": ""
+            "projectKind": "Front End"
         },
         { 
             "name": "Blog Project", 
@@ -28,8 +26,7 @@
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At numquam quo porro id quam doloribus?",
             "projectImg1": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.SADZ9CkWXMQVH1HpxamqdAHaE4%26pid%3DApi&f=1",
             "projectUrl": "",
-            "projectKind": "CRUD Project",
-            "projectToolsUsed": ""
+            "projectKind": "CRUD Project"
         }
     ]
 }
