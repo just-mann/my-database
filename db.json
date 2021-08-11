@@ -5,9 +5,9 @@
             "id": "7e2e7e49-cd84-4b34-9762-8985cc573983",
             "aboutProj": "A simple React application to show some basic information about a TV Show or Movie.",
             "description": "Reactjs Project Lorem ipsum dolor sit amet consectetur adipisicing elit. At numquam quo porro id quam doloribus?",
-            "projectImg1": "https://srv4.imgonline.com.ua/result_img/imgonline-com-ua-convertPAqRXcZpUysL.png",
-            "projectImg2": "https://www.imgonline.com.ua/result_img/imgonline-com-ua-converth72O5N8h7KI8.png",
-            "projectImg3": "https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-convertT7FIgK2VhpL1.png",
+            "projectImg1": "https://i.ibb.co/fqscZqR/display-Img.png",
+            "projectImg2": "https://i.ibb.co/HDfwLNm/res-Details-Page.png",
+            "projectImg3": "https://i.ibb.co/kQ054BQ/res-Contact.png",
             "projectUrl": "https://itheater-80808.web.app/",
             "projectKind": "React Project",
             "projectToolsUsed": ["React Context API", "Sass", "EmailJS"]
